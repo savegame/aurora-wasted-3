@@ -1,0 +1,6 @@
+[submodule "re3"]
+	path = re3
+	url = git@github.com:savegame/re3_.git
+[submodule "glfw"]
+	path = glfw
+	url = git@github.com:savegame/glfw.git
