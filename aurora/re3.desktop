@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=no-invoker
+Icon=ru.sashikknox.re3
+Exec=ru.sashikknox.re3
+Categories=Game
+Name=Wasted III
+Name[ru]=Потрачено III
+
+[X-Application]
+Permissions=UserDirs;Audio
+OrganizationName=ru.sashikknox
+ApplicationName=re3
