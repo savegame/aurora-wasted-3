@@ -8,6 +8,6 @@ Name=Wasted III
 Name[ru]=Потрачено III
 
 [X-Application]
-Permissions=UserDirs;Audio
+Permissions=UserDirs;Audio;RemovableMedia;
 OrganizationName=ru.sashikknox
 ApplicationName=re3
